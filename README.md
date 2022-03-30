@@ -1,4 +1,4 @@
-<img width=300 src="https://i.redd.it/rdbcv3orpjy71.jpg">
+<img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
  
 # Youtube Donwloader in Python 
 
